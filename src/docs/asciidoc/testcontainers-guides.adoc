@@ -1,0 +1,18 @@
+= Testcontainers Guides
+:idprefix:
+:idseparator: -
+:icons: font
+:imagesdir: ./images
+:includes: ./_includes
+:toc: left
+:source-highlighter: coderay
+:nofooter: true
+:rootDir: ../../..
+//:rootDir: .
+
+These are testcontainers guides
+
+include::guides/tc-guide-spring-boot-jpa/src/docs/asciidoc/index.adoc[]
+
+include::guides/tc-guide-spring-boot-mongodb/src/docs/asciidoc/index.adoc[]
+
